@@ -351,7 +351,7 @@
                 <img src="assets/img/team/adebayo.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
-                  <a href="https://facebook.com/adebayo.oloyede.7/"><i class="icofont-facebook"></i></a>
+                  <a href="https://facebook.com/oloyede.adebayo.7/"><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
                 </div>
               </div>

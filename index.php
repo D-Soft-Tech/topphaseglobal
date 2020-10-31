@@ -351,7 +351,7 @@
                 <img src="assets/img/team/adebayo.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
-                  <a href="https://facebook.com/adebayo oloyede"><i class="icofont-facebook"></i></a>
+                  <a href="https://facebook.com/adebayo.oloyede.7/"><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
                 </div>
               </div>
@@ -641,7 +641,7 @@
           </div>
           <div class="credits">
             Designed by 
-            <a href="https://wa.d-softTechWhatsapppage"> 
+            <a href="https://wa.link/jild4r"> 
               <strong><b>
                 <span data-toggle='tooltip' 
                   data-placement='top' title="Fullstack Web development, Mobile app development, 

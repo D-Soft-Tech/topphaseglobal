@@ -40,7 +40,7 @@
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
-              <li class="active"><a href="index.html">Home</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#featured-services">Services</a></li>
               <li><a href="#testimonials">Testimonials</a></li>
@@ -98,7 +98,7 @@
               <li><i class="icofont-check-circled"></i> We can sue and be sued.</li>
               <li><i class="icofont-check-circled"></i> Therefore, your hard-earned funds is safe with us. Trust us with it and we will help you gain financial freedom</li>
             </ul>
-            </a><a href="https://wa.link/6xnf4k" class="read-more">Invest Now <i class="icofont-long-arrow-right"></i></a>
+            <a href="https://wa.link/1ut0jj" class="read-more">Invest Now <i class="icofont-long-arrow-right"></i></a>
           </div>
         </div>
 
@@ -141,7 +141,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
               <div class="icon text-center mt-2 mx-auto">
                 <i class="bx bxl-dribbble" style="width: 100px; height: 100px;"></i>
@@ -151,17 +151,17 @@
             </div>
           </div>
 
-          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon text-center mt-2 mx-auto">
                 <i class="bx bx-file" style="width: 100px; height: 100px;"></i>
               </div>
               <h4><a href="">Agriculture</a></h4>
-              <p>We partner with reputable firms that have pedigree in the field</p>
+              <p>We partner with reputable firms who have pedigree in the Agricultural sector.</p>
             </div>
           </div>
 
-          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon text-center mt-2 mx-auto" style="width: 100px; height: 100px;">
                 <i class="bx bx-tachometer"></i>
@@ -171,7 +171,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="400">
+          <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon text-center mt-2 mx-auto" style="width: 100px; height: 100px;">
                 <i class="bx bx-layer"></i>
@@ -319,11 +319,10 @@
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
+                <h4>Olusanya Olalekan</h4>
                 <span>Chief Executive Officer</span>
               </div>
             </div>
@@ -334,15 +333,14 @@
               <div class="member-img">
                 <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href="https://teitter.com/junior_hollax"><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
+                  <a href="https://instagram.com/Junior_hollax"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Adedayo Adedapo</h4>
+                <span>Accounting</span>
               </div>
             </div>
           </div>
@@ -350,17 +348,16 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/adebayo.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href="https://facebook.com/adebayo oloyede"><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Adebayo Oloyede</h4>
+                <span>Web Development</span>
               </div>
             </div>
           </div>
@@ -373,12 +370,11 @@
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
                 <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <span>Customer Service</span>
               </div>
             </div>
           </div>
@@ -496,13 +492,14 @@
                   Payment is automatically made to the investors account <b>on the due date</b> based on the investor's investment plan (i.e minimum plan or long term). However, you can as well contact us on your due date 
                   using any of the links below
 
-                  <br /> <br /><a href="https://wa.link/6xnf4k" class="btn btn-primary">Today is my due date, send all</a> 
+                  <br /> <br /><a href="https://wa.link/4awr5b" class="btn btn-primary">Today is my due date, send all</a> 
                   <br> <p class="text-center">OR</p> 
-                  <br /><a href="https://wa.link/6xnf4k" class="btn btn-primary">Today is my due date, send only ROI</a>
+                  <br /><a href="https://wa.link/4195gi" class="btn btn-primary">Today is my due date, send only ROI and re-invest the Capital</a>
+                  <br> <p class="text-center">OR</p> 
+                  <br /><a href="https://wa.link/ia97n8" class="btn btn-primary">Today is my due date, but I want to re-invest all</a>
                 </p>
               </div>
             </li>
-
           </ul>
         </div>
 
@@ -610,7 +607,7 @@
           <div class="col-lg-3 col-md-4 footer-links">
             <h4>Quick Navigators</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">About</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#featured-services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#testimonials">Testimonials</a></li>
@@ -624,10 +621,10 @@
           <div class="col-lg-3 col-md-4 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Investment</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Agriculture</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Real Estates</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Automobiles</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#pricing">Investment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#featured-services">Agriculture</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#featured-services">Real Estates</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#featured-services">Automobiles</a></li>
             </ul>
           </div>
 
@@ -643,14 +640,25 @@
             &copy; Copyright <strong><span>Top Phase Global Enterprise</span> <sup> RC - 3198832</sup></strong>. All Rights Reserved
           </div>
           <div class="credits">
-            Designed by <a href="tel:+2349075771869"> <strong> D-SoftTech</strong></a>
+            Designed by 
+            <a href="https://wa.d-softTechWhatsapppage"> 
+              <strong><b>
+                <span data-toggle='tooltip' 
+                  data-placement='top' title="Fullstack Web development, Mobile app development, 
+                  e-commerce website, networking.    +2349075771869, dynamicsofttechnology@gmail.com.     
+                  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+                  &nbsp;....IT Solutions at ur doorpost"> 
+                  D-SoftTech
+                </span>
+              <b></strong>
+            </a>
           </div>
         </div>
         <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-whatsapp"></i></a>
-          <a href="#instagram/topphaseglobal" class="instagram/topphaseglobal"><i class="bx bxl-instagram"></i></a>
+          <a href="https://twitter.com/topphaseglobal" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://facebook.com/topphaseglobal" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://wa.link/6xnf4k" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://instagram.com/topphaseglobal" class="instagram"><i class="bx bxl-instagram"></i></a>
         </div>
       </div>
 
@@ -674,7 +682,11 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
+  
+  <!-- Designed by tooltip -->
+  <script>
+    $('[data-toggle="tooltip"]').tooltip({boundary: 'window'});
+  </script>
 </body>
 
 </html>

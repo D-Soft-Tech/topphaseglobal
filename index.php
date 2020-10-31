@@ -24,7 +24,15 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
   <style type="text/css">
-  
+    .icon img{
+      transition: 1.5s;
+    }
+    .icon-box:hover .icon img{
+      transition: all 1.5s;
+      transform: scale(1.5);
+      overflow: hidden;
+      /* margin: 5px; */
+    }
   </style>
 </head>
 
@@ -144,7 +152,7 @@
           <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
               <div class="icon text-center mt-2 mx-auto">
-                <i class="bx bxl-dribbble" style="width: 100px; height: 100px;"></i>
+                <img src="assets/img/service/trade.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4><a href="">Investment</a></h4>
               <p>We are experts with long standing years of experience in trading the financial market.</p>
@@ -154,7 +162,7 @@
           <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon text-center mt-2 mx-auto">
-                <i class="bx bx-file" style="width: 100px; height: 100px;"></i>
+                <img src="assets/img/service/agric.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4><a href="">Agriculture</a></h4>
               <p>We partner with reputable firms who have pedigree in the Agricultural sector.</p>
@@ -163,8 +171,8 @@
 
           <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon text-center mt-2 mx-auto" style="width: 100px; height: 100px;">
-                <i class="bx bx-tachometer"></i>
+              <div class="icon text-center mt-2 mx-auto">
+                <img src="assets/img/service/estate.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4><a href="">Real Estates</a></h4>
               <p>We also partner with companies that have years of successfull operatins to their credit</p>
@@ -173,8 +181,8 @@
 
           <div class="col-lg-3 text-center col-md-6 d-flex align-items-stretch mt-4 mt-md-0 mb-3" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
-              <div class="icon text-center mt-2 mx-auto" style="width: 100px; height: 100px;">
-                <i class="bx bx-layer"></i>
+              <div class="icon text-center mt-2 mx-auto">
+                <img src="assets/img/service/automobiles.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4 ><a href="">Automobile</a></h4>
               <p>We are into mini-importation of automobiles and accessories</p>
@@ -351,7 +359,7 @@
                 <img src="assets/img/team/adebayo.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
-                  <a href="https://facebook.com/oloyede.adebayo.7/"><i class="icofont-facebook"></i></a>
+                  <a href="https://facebook.com/oloyede.adebayo.7"><i class="icofont-facebook"></i></a>
                   <a href=""><i class="icofont-instagram"></i></a>
                 </div>
               </div>

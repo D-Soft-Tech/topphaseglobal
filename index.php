@@ -553,9 +553,22 @@
 
         <div class="row">
 
-          <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
-          </div>
+          <!-- Adding the Map -->
+          <div id="map" class="col-lg-6 mb-4 mb-lg-0"></div>
+          <script>
+              function initMap()
+              {
+                  let TopPhaseGlobal = {lat: 7.23034971, lng: 3.4546711};
+                  let map = new google.maps.Map(
+                      document.getElementById('map'), {zoom: 8, center: TopPhaseGlobal}
+                  );
+                  let marker = new google.maps.Marker({position: TopPhaseGlobal, map: map})
+              }
+          </script>
+          <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQnBM0iTEtxw9NbUZbLifn96sv5RCgCAY&callback=initMap">
+          </script>
+          <!-- End of the Map -->
 
           <div class="col-lg-6">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">

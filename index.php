@@ -560,7 +560,7 @@
               {
                   let TopPhaseGlobal = {lat: 7.23034971, lng: 3.4546711};
                   let map = new google.maps.Map(
-                      document.getElementById('map'), {zoom: 8, center: TopPhaseGlobal}
+                      document.getElementById('map'), {zoom: 16, center: TopPhaseGlobal}
                   );
                   let marker = new google.maps.Marker({position: TopPhaseGlobal, map: map})
               }

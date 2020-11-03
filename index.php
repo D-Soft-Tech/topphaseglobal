@@ -553,11 +553,50 @@
           <script>
               function initMap()
               {
-                  const iconBase = 'assets/';
                   let TopPhaseGlobal = {lat: 7.23034971, lng: 3.4546711};
                   let map = new google.maps.Map(
                       document.getElementById('map'), {zoom: 16, center: TopPhaseGlobal}
                   );
+
+                  const contentString =   '<div id="content">' +
+                                            '<h6 id="firstHeading" class="firstHeading">Top Phase Global Enterprise</h6>' +
+                                            '<p class="text-justify">'+
+                                              '<ul>'+
+                                                '<li>'+
+                                                  '<b>Investment</b>'+
+                                                '</li>'+
+                                                '<li>'+
+                                                  '<b>Agriculture</b>'+
+                                                '</li>'+
+                                                '<li>'+
+                                                  '<b>Real Estates</b>'+
+                                                '</li>'+
+                                                '<li>'+
+                                                  '<b>Automobiles</b>'+
+                                                '</li>'+
+                                              '</ul>'+
+                                              "Agbede Street, off Alabata road, Abeokuta Ogunstate " +
+                                            "</p>" +
+                                          "</div>";
+
+                const infowindow = new google.maps.InfoWindow({
+                      content: contentString,
+                    });
+
+                 const marker = new google.maps.Marker({
+                  position: TopPhaseGlobal,
+                  map: map,
+                  icon: 'assets/img/newMapIcon.PNG',
+                  title: 'Top Phase Global'
+                 }); 
+
+                 marker.addListener("click", () => {
+                    infowindow.open(map, marker);
+                  });
+
+                //  const makerLabel = new.google.maps.Infowindow({
+                //     content: "Top Phase Global, Agbede Abeokuta, Ogun State"
+                //  });
               }
           </script>
           <script async defer

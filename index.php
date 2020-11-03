@@ -541,6 +541,7 @@
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
               <p>+234 8073 9488 82</p>
+              <p>+234 7064 4348 64</p>
             </div>
           </div>
 

@@ -47,7 +47,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center">
           <span class="mr-auto">
-          <a href="index.html" class="logo"><img src="assets/img/newCorrectLogo.png" alt="" class="img-fluid" style="width: 30px; height: 50px;"></a>
+          <a href="index.php" class="logo"><img src="assets/img/newCorrectLogo.png" alt="" class="img-fluid" style="width: 30px; height: 50px;"></a>
           </span>
 
           <nav class="nav-menu d-none d-lg-block">

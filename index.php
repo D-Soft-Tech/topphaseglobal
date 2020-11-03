@@ -29,7 +29,7 @@
     }
     .icon-box:hover .icon img{
       transition: all 1.5s;
-      transform: scale(1.5);
+      transform: scale(1.2);
       overflow: hidden;
       /* margin: 5px; */
     }
@@ -44,7 +44,9 @@
 
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center">
-          <a href="index.html" class="logo mr-auto"><img src="assets/img/newtopphase.png" alt="" class="img-fluid"></a>
+          <span class="mr-auto">
+          <a href="index.html" class="logo"><img src="assets/img/newCorrectLogo.png" alt="" class="img-fluid" style="width: 30px; height: 50px;"></a>
+          </span>
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
@@ -97,7 +99,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3>Facts about Top phase Global Enterprise</h3>
             <p class="font-italic">
-              Top Phase Global Enterprise is company engaged in the business of investing pooled capital of our investors in 
+              Top Phase Global Enterprise is a company engaged in the business of investing pooled capital of our investors in 
               financial securities
             </p>
             <ul>
@@ -165,7 +167,7 @@
                 <img src="assets/img/service/agric.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4><a href="">Agriculture</a></h4>
-              <p>We partner with reputable firms who have pedigree in the Agricultural sector.</p>
+              <p>We partner with reputable firms who are the frontliners in the Agricultural sector.</p>
             </div>
           </div>
 
@@ -175,7 +177,7 @@
                 <img src="assets/img/service/estate.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
               </div>
               <h4><a href="">Real Estates</a></h4>
-              <p>We also partner with companies that have years of successfull operatins to their credit</p>
+              <p>We also partner with companies that have years of successfull operations to their credit</p>
             </div>
           </div>
 
@@ -254,8 +256,8 @@
               for a couple of years now and i still plan to be for many more years. Their transparency and seamless payout is what makes me patriotic.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Lamidi Godwin</h3>
+            <img src="assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
+            <h3>Bunmi Alao</h3>
           </div>
 
           <div class="testimonial-item">
@@ -265,29 +267,8 @@
               reason for the name <b>Top Phase</b>. Sincerely yours they really answer to their name. 
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Stephen Adeshewa</h3>
-          </div>
-
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Working with Top Phase investment has been like working wiht an extension of our family business. Their strong business ethics and integrity
-              is top notch and has made my experience and relationship with them very pleasurable and worthwhile.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Adeleke Rebecca</h3>
-          </div>
-
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              This company is the REAL DEAL. Thank God i made the right choice by chosing Top Phase.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matthew Johnson</h3>
+            <img src="assets/img/testimonials/testimonials-2.png" class="testimonial-img" alt="">
+            <h3>Oyetunde Mary</h3>
           </div>
 
           <div class="testimonial-item">
@@ -298,7 +279,18 @@
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Akinlolu</h3>
+            <h3>Okpe Promise</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Working with Top Phase investment has been like working wiht an extension of our family business. Their strong business ethics and integrity
+              is top notch and has made my experience and relationship with them very pleasurable and worthwhile.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <h3>Adeniyi Jones</h3>
           </div>
 
         </div>
@@ -322,7 +314,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -330,7 +322,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Olusanya Olalekan</h4>
+                <h4>Olusanya Olamilekan Joshua</h4>
                 <span>Chief Executive Officer</span>
               </div>
             </div>
@@ -339,7 +331,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-2.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://teitter.com/junior_hollax"><i class="icofont-twitter"></i></a>
                   <a href=""><i class="icofont-facebook"></i></a>
@@ -347,12 +339,29 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Adedayo Adedapo</h4>
+                <h4>Adeosun Adedayo</h4>
                 <span>Accounting</span>
               </div>
             </div>
           </div>
 
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.png" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-twitter"></i></a>
+                  <a href=""><i class="icofont-facebook"></i></a>
+                  <a href=""><i class="icofont-instagram"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Alao Ayomide</h4>
+                <span>Customer Service</span>
+              </div>
+            </div>
+          </div>
+          
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
@@ -366,23 +375,6 @@
               <div class="member-info">
                 <h4>Adebayo Oloyede</h4>
                 <span>Web Development</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Customer Service</span>
               </div>
             </div>
           </div>
@@ -558,11 +550,11 @@
           <script>
               function initMap()
               {
+                  const iconBase = 'assets/';
                   let TopPhaseGlobal = {lat: 7.23034971, lng: 3.4546711};
                   let map = new google.maps.Map(
                       document.getElementById('map'), {zoom: 16, center: TopPhaseGlobal}
                   );
-                  let marker = new google.maps.Marker({position: TopPhaseGlobal, map: map})
               }
           </script>
           <script async defer

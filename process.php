@@ -25,4 +25,19 @@ else
 	}
 }
 
+// $mail = new PHPMailer();
+// $mail->IsSmtp();
+// $mail->SMTPDebug = 0;
+// $mail->Host = 'smtp.gmail.com';
+// $mail->Port = '465';
+// $mail->SMTPAuth = 'true';
+// $mail->Username = 'oloyedeadebayoolawale@gmail.com';
+// $mail->Password = 'oloyede12345678910';
+// $mail->SMTPSecure = 'ssl';
+// $mail->From = 'lifeandpeacecommission.gmail.com';
+// $mail->AddAddress("$to", 'Name');
+// $mail->WordWrap = 70;
+// $mail->Subject = $subject;
+// $mail->Body = $message;
+
 ?>

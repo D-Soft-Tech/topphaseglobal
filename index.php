@@ -586,7 +586,7 @@
                  const marker = new google.maps.Marker({
                   position: TopPhaseGlobal,
                   map: map,
-                  icon: 'assets/img/newMapIcon.PNG',
+                  icon: 'assets/img/newMapIcon.png',
                   title: 'Top Phase Global'
                  }); 
 

@@ -544,12 +544,16 @@
             </div>
           </div>
 
+          <div class="info-box mb-4 col-sm-12 my-0">
+            <h4>Locate us on the Globe</h4>
+          </div>
+
         </div>
+      </div>
 
-        <div class="row">
-
+        <div class="container-fluid">
           <!-- Adding the Map -->
-          <div id="map" class="col-lg-6 mb-4 mb-lg-0"></div>
+          <div id="map" class="container-fluid" style="height: 60vh;"></div>
           <script>
               function initMap()
               {
@@ -603,35 +607,6 @@
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQnBM0iTEtxw9NbUZbLifn96sv5RCgCAY&callback=initMap">
           </script>
           <!-- End of the Map -->
-
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
 
         </div>
 

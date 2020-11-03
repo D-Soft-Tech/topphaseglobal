@@ -412,7 +412,7 @@
                 <li>Rollover is allowed</li>
               </ul>
               <div class="btn-wrap">
-                <a href="https://wa.link/6xnf4k" class="btn-buy">Invest Now</a>
+                <a href="https://wa.link/1ut0jj" class="btn-buy">Invest Now</a>
               </div>
             </div>
           </div>
@@ -465,7 +465,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">How do i open an Account with Top Phase Global? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-parent=".faq-list">
                 <p class="text-justify">
-                  You can open an account with us by connecting with us on our Social media page. <br /> <br /><a href="https://wa.link/6xnf4k" class="btn btn-primary">Invest Now</a>
+                  You can open an account with us by connecting with us on our Social media page. <br /> <br /><a href="https://wa.link/1ut0jj" class="btn btn-primary">Invest Now</a>
                 </p>
               </div>
             </li>

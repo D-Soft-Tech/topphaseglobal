@@ -533,6 +533,7 @@
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
               <p>topphaseglobalenterprise@gmail.com</p>
+              <p><a href="contact" class="btn btn-primary btn-sm">Send us a Message</a></p>
             </div>
           </div>
 

@@ -301,8 +301,8 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <!-- ======= Team Section ======= I commented this section as requested by the owner -->
+    <!-- <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -318,11 +318,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/team-1.PNG" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>Olusanya Olamilekan Joshua</h4>
@@ -335,11 +330,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/team-2.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="https://teitter.com/junior_hollax"><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href="https://instagram.com/Junior_hollax"><i class="icofont-instagram"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>Adeosun Adedayo</h4>
@@ -352,11 +342,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/team-4.png" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>Alao Ayomide</h4>
@@ -369,11 +354,6 @@
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/adebayo.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href="https://facebook.com/oloyede.adebayo.7"><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                </div>
               </div>
               <div class="member-info">
                 <h4>Adebayo Oloyede</h4>
@@ -385,7 +365,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section>End Team Section -->
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing section-bg">
@@ -686,13 +666,6 @@
             </a>
           </div>
         </div>
-        <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="https://twitter.com/topphaseglobal" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="https://facebook.com/topphaseglobal" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="https://wa.link/6xnf4k" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-          <a href="https://instagram.com/topphaseglobal" class="instagram"><i class="bx bxl-instagram"></i></a>
-        </div>
-      </div>
 
     </div>
   </footer><!-- End Footer -->
